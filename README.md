@@ -171,7 +171,7 @@ The development environment should now be set up. Additional information on the 
 
 - **[Website](https://amplication.com)** overview of the product.
 - **[Docs](https://docs.amplication.com)** for comprehensive documentation.
-- **[Blog](https://amplication.com/blog)** for guides and techinical comparisons.
+- **[Blog](https://amplication.com/blog)** for guides and technical comparisons.
 - **[Roadmap](https://amplication.com/#roadmap)** to see what features will be added in the future.
 - **[Discord](https://amplication.com/discord)** for support and discussions with the community and the team.
 - **[GitHub](https://github.com/amplication/amplication)** for source code, project board, issues, and pull requests.
